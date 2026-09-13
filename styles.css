@@ -1,0 +1,67 @@
+/* General Page Styling */
+
+body {
+    background-color: #f2f2f2;
+    color: rgb(35, 35, 35);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
+/* Heading Styling */
+
+h1 {
+    color: white;
+    background-color: #4b3278;
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* CSS Exploration:
+   Border-radius rounds the corners of an element.
+   I used it on the main heading to soften the edges of its background.
+*/
+
+h1 
+    border-radius: 8px;
+
+}
+
+h2 {
+    color: #4b3278;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/* Paragraph and List Styling */
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    color: rgb(60, 60, 60);
+    font-size: 18px;
+    line-height: 1.8;
+    list-style-type: square;
+}
+
+
+/* Link Styling */
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+
+/* CSS Exploration:
+   Border-radius rounds the corners of an element.
+   I used it on the main heading to soften the edges of its background.
+*/
+
+h1 {
+    border-radius: 8px;
+}
