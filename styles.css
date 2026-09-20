@@ -24,7 +24,7 @@ h1 {
 
 h1 
     border-radius: 8px;
-
+ /*this h1 should be added with the other, so it reads as one*/
 }
 
 h2 {
@@ -63,5 +63,5 @@ a {
 */
 
 h1 {
-    border-radius: 8px;
+    border-radius: 8px;  /*this h1 should be added with the other, so it reads as one*/
 }
